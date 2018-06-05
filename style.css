@@ -1,0 +1,16 @@
+body {
+    width: 560px;
+    margin: 0 auto;
+    word-spacing: 1.5px;
+}
+
+h2#pandas-title {
+    background: blueviolet;
+    color: gold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div.content {
+    background: lightgray;
+}
+
